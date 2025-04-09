@@ -19,10 +19,11 @@ Built with FastAPI (backend) and Streamlit (frontend), it’s easy to deploy and
 - Docker Support – Deploy anywhere (cloud, local, or server)
 
  Tech Stack
-Component	Technology
-Backend	FastAPI (Python)
-Frontend	Streamlit
-Data Processing	Pandas, NumPy
-Deployment	Docker
+ 
+-Component	Technology
+-Backend	FastAPI (Python)
+-Frontend	Streamlit
+-Data Processing	Pandas, NumPy
+-Deployment	Docker
 
 NOTE: generate_instagram_data is a coed that used to generate training data in csv formate to train the model
