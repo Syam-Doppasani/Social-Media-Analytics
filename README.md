@@ -26,12 +26,12 @@ Built with FastAPI (backend) and Streamlit (frontend), it’s easy to deploy and
 - Data Processing	Pandas, NumPy
 - Deployment	Docker
 
-Required file structure 
-
-├── api.py            # FastAPI backend
-├── app.py            # Streamlit frontend
-├── sample_data.csv   # Example training data
-├── requirements.txt  # Dependencies
-└── Dockerfile        # For container deploymen
+Required file structure
+instagram-optimizer/
+├── api.py            # FastAPI backend (AI processing & API endpoints)
+├── app.py            # Streamlit frontend (user interface)
+├── sample_data.csv   # Example Instagram post dataset for testing
+├── requirements.txt  # Python dependencies (FastAPI, Streamlit, Pandas etc.)
+└── Dockerfile        # Container configuration for easy deployment
 
 NOTE: generate_instagram_data is a coed that used to generate training data in csv formate to train the model
