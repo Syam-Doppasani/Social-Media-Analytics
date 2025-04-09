@@ -8,13 +8,7 @@ TECHNOLOGIES used in this application:-
 - Docker (Dockerfile): For containerizing the application for easy deployment
 - Python: Primary programming language for both backend and frontend
 
-NOTE: generate_instagram_data is a coded that used to generate 50k training data in csv formate to train the model
-
-Ideal For:
-- Influencers (grow followers & engagement)
-- Small Businesses (boost brand visibility)
-- Marketing Agencies (manage multiple clients efficiently)
-- Content Creators (optimize post timing & hashtags)
+NOTE: generate_instagram_data is a coed that used to generate training data in csv formate to train the model
 
 The required file structure 
 instagram-optimizer/
